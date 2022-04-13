@@ -19,6 +19,7 @@ function App() {
         <div className="col-md">
           <Education/>
         </div>
+              
       </div>
       <div className="row mt-3">
         <div className="col-md mb-5">

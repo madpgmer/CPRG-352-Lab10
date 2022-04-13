@@ -63,16 +63,7 @@ function TechnologySummary() {
                                         </tr>
                                     </thead>
                                 </table>
-                                <h6 className="fw-bold">Key Skills</h6>
-                                <p>•	Strong background working with clients and in-house developers to identify requirements, assist with creating user interfaces, and develop implementation timelines</p>
-                                <p>•	In-depth understanding of project lifecycle, including all phases of system and software development</p>
-                                <p>•	Performed data analysis, testing, and debugging </p>
-                                <p>•	Proficient in Object-Oriented methodologies. Leverage knowledge of object-oriented programming to help validate, verify, communicate, and resolve software issues through careful, thoroughly documented testing to maximize quality of software</p>
-                                <p>•	Developed Process flow, Activity, Use Case, Class and Sequence Diagrams </p>
-                                <p>•	Possess excellent customer service skills with ability to deal with every kind of customer personality</p>
-                                <p>•	A team player who is highly energetic, detail oriented, self-managed, driven, and competitive</p>
-                                <p>•	Excellent written and verbal communication, interpersonal, liaison and presentation skills</p>
-                                <p>•	Capable of facilitating workshops for core team and employee benefit programs</p>
+                                
                             </li>
                         </ul>
                     </div>

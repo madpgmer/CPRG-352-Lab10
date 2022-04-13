@@ -15,7 +15,7 @@ function Header(){
                 <div className="col text-center text-lg-start">
                     <h1>Madhu Madhavan</h1>
 
-                    <p className="lead">Software development student at SAIT (Southern Alberta Institute of Technology).</p>
+                    <p className="lead">Software Developer (SAIT 2022).</p>
 
                     <ul className="list-inline">
                         <li className="list-inline-item my-2"><a href="madpgmer@gmail.com" className="fs-5 link-light text-decoration-none"><i
