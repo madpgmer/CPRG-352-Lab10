@@ -6,21 +6,16 @@ function Education () {
                         <h2 className="card-title">Education</h2>
                         <ul className="list-unstyled">
                             <li>
-                                <h6 className="fw-bold">Computer Science / University Name 2001-2004</h6>
-                                <p>Sed et ornare quam. Cras scelerisque ex ultricies neque sodales tristique. Phasellus
-                                    mattis
-                                    dui ut enim
-                                    tincidunt auctor. Maecenas euismod, orci eget varius elementum, nunc massa dignissim
-                                    sapien,
-                                    ac sagittis
-                                    libero dolor vitae elit.</p>
+                                <h6 className="fw-bold">Diploma in Information Technology, Software Development 2022</h6>
+                                <p>Southern Alberta Institute of technology (SAIT Polytechnic) School for Advanced Digital Technology, Calgary</p>
                             </li>
                             <li>
-                                <h6 className="fw-bold">Testville High School 1994-2000</h6>
-                                <p>Aenean nisl enim, dictum in odio ut, suscipit efficitur diam. Nam nec velit a odio
-                                    porta
-                                    efficitur nec at
-                                    magna.</p>
+                                <h6 className="fw-bold">Petroleum Land Administration Certificate Program 2014 	</h6>
+                                <p>Southern Alberta Institute of technology (SAIT Polytechnic), Calgary</p>
+                            </li>
+                            <li>
+                                <h6 className="fw-bold">Bachelor of Business Management, Mysore University, Mysore, India</h6>
+                                <p>Evaluated as equivalent to Bachelor Degree in Business Administration in the United States by Morningside/ Evaluations and Consulting, New York. Website: <a href="https://www.mside.com">mside</a></p>
                             </li>
                         </ul>
                     </div>
