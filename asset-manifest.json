@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CPRG-352-Lab10/static/css/main.5fd608b5.css",
+    "main.js": "/CPRG-352-Lab10/static/js/main.29d7232c.js",
+    "static/js/787.30237536.chunk.js": "/CPRG-352-Lab10/static/js/787.30237536.chunk.js",
+    "static/media/Madhu.png": "/CPRG-352-Lab10/static/media/Madhu.00aef4e5e735d6572e36.png",
+    "static/media/bootstrap-icons.woff?": "/CPRG-352-Lab10/static/media/bootstrap-icons.c1d7432ee75fa194e499.woff",
+    "static/media/bootstrap-icons.woff2?": "/CPRG-352-Lab10/static/media/bootstrap-icons.a13b815539b49de48d23.woff2",
+    "index.html": "/CPRG-352-Lab10/index.html",
+    "main.5fd608b5.css.map": "/CPRG-352-Lab10/static/css/main.5fd608b5.css.map",
+    "main.29d7232c.js.map": "/CPRG-352-Lab10/static/js/main.29d7232c.js.map",
+    "787.30237536.chunk.js.map": "/CPRG-352-Lab10/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fd608b5.css",
+    "static/js/main.29d7232c.js"
+  ]
+}
