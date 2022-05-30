@@ -15,7 +15,7 @@ function Header(){
                 <div className="col text-center text-lg-start">
                     <h1>Madhu Madhavan</h1>
 
-                    <p className="lead">Software Developer (SAIT 2022).</p>
+                    <p className="lead">Software Developer</p>
 
                     <ul className="list-inline">
                         <li className="list-inline-item my-2"><a href="madpgmer@gmail.com" className="fs-5 link-light text-decoration-none"><i
@@ -27,6 +27,9 @@ function Header(){
                         <li className="list-inline-item my-2"><a href="https://github.com/madpgmer" className="fs-5 link-light text-decoration-none"><i
                                     className="bi bi-github pe-1"></i>
                                 GitHub</a></li>
+                        <li className="list-inline-item my-2"><a href="https://madpgmer.github.io" className="fs-5 link-light text-decoration-none"><i
+                                    className="bi bi-github pe-1"></i>
+                                TechBlog</a></li>
                     </ul>
                 </div>
             </div>

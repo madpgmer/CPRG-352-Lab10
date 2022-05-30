@@ -9,7 +9,7 @@ function TechnologySummary() {
                                     <thead>
                                         <tr>
                                         <th scope="row">Web Development</th>
-                                        <td>Java, HTML5, XML, JSON, JavaScript, Nodejs,JSP, Java Servlet, Java Beans, CSS, Bootstrap, AJAX, REACT</td>
+                                        <td>Java, HTML5, Jekyll Markdown, XML, JSON, JavaScript, Mongoose, Express.js, Node.js,JSP, Java Servlet, Java Beans, CSS, Bootstrap, AJAX, REACT, </td>
                                         </tr>
                                         
                                         <tr>
@@ -44,7 +44,7 @@ function TechnologySummary() {
                                         
                                         <tr>
                                         <th scope="row">Database</th>
-                                        <td>Oracle 12, PL/SQL, HeidiSQL, MySQL, MongoDB</td>
+                                        <td>Oracle 12, PL/SQL, MariaDB, MySQL, MongoDB</td>
                                         </tr>
                                         
                                         <tr>
