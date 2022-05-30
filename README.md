@@ -1,4 +1,4 @@
-# CPRG-352-Lab10
+# My Resume
 
 # Getting Started with Create React App
 
